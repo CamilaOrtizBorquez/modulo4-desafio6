@@ -1,6 +1,6 @@
-# Desafio 4 - Modulo 4
+# Desafio 6 - Modulo 4
 
-Uso de API en proyecto de pizzeria. 
+Uso de Context en proyecto de Pizzeria.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
